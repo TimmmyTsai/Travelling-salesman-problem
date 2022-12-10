@@ -1,5 +1,5 @@
-# Travelling-salesman-problem-in-C
-Travelling-salesman-problem (TSP) in C
+# Travelling-salesman-problem-in-C++
+Travelling-salesman-problem (TSP) in C++
 
 What is TSP?
 
